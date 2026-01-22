@@ -1,0 +1,38 @@
+Đăng nhập
+- Tên tài khoản
+- Mật khẩu
+
+FOOD & DRINK HUB
+├── Trang Chủ
+│   ├── Câu signature nổi bật
+    └── Giới thiệu về trang web hướng dẫn người dùng làm những món ăn, thức uống theo nhu cầucầu
+│   ├── Hai thẻ chính: FOOD & DRINK
+
+├── FOOD Section (Slide)
+│   ├── Delicious Foods
+│   │   ├── Menu các món ăn
+│   │   ├── Câu chuyện đằng sau
+│   │   ├── Nguyên liệu chi tiết
+│   │   ├── Ước lượng giá thành
+│   │   └── Gợi ý của bạn
+│   └── Healthy Foods
+│       ├── Menu các món ăn
+│       ├── Câu chuyện đằng sau
+│       ├── Nguyên liệu chi tiết
+│       ├── Ước lượng giá thành
+│       └── Gợi ý của bạn
+├── DRINK Section (Slide)
+│   ├── Healthy Drinks
+│   │   ├── Fresh fruit juice
+│   │   ├── Vegetable juice
+│   │   ├── Smoothie
+│   │   ├── Herbal tea
+│   │   ├── Black coffee
+│   │   └── Milk/Plant-based milk
+│   └── Cocktail & Mocktail
+│       ├── Mojito
+│       ├── Margarita
+│       ├── Old Fashioned
+│       ├── Moscow Mule
+│       └── Aperol Spritz
+└── Các trang con chi tiết
